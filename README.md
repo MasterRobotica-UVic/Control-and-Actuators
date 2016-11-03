@@ -5,3 +5,4 @@ Interactive notes about the course. The notes are written using Jupyter, that yo
 Notes index:
 
 1. [Sequences and Linear Difference Equations](sequences.ipynb)
+2. [Proportional control with Difference Equations](proportional_control.ipynb)
