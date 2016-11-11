@@ -6,3 +6,4 @@ Notes index:
 
 1. [Sequences and Linear Difference Equations](sequences.ipynb)
 2. [Proportional control with Difference Equations](proportional_control.ipynb)
+3. [Higher order systems](higher_order_systems.ipynb)
